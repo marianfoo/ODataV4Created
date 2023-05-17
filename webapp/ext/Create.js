@@ -17,6 +17,7 @@ sap.ui.define([], function () {
                 await context.created()
                 console.log("succesfull created")
             } catch (error) {
+                console.log("error while creating");
                 console.log(error);
             }
 
