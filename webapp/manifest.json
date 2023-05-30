@@ -134,12 +134,6 @@
                                             "text": "Create Fail",
                                             "press": "createactivate.ext.Create.createFail",
                                             "requiresSelection": false
-                                        },
-                                        "excelUploadListReport2": {
-                                            "id": "excelUploadListReportButton2",
-                                            "text": "Create Success",
-                                            "press": "createactivate.ext.Create.createSuccess",
-                                            "requiresSelection": false
                                         }
                                     }
                                 }
